@@ -1,6 +1,6 @@
 # PAN-Card-Validation-in-SQLProject-
 
-![image alt]([https://github.com/Gulshankr007/Music-Store-Analysis-Sql/blob/bf9a5f66d90ee13380513056e6c0e1410b2a8070/MusicDatabaseSchema.png](https://github.com/Gulshankr007/PAN-Card-Validation-in-SQLProject-/blob/da4c186e0f597462b7def70c0acb16afd48cbb77/pan%20project%20.png))
+[image alt]([https://github.com/Gulshankr007/Music-Store-Analysis-Sql/blob/bf9a5f66d90ee13380513056e6c0e1410b2a8070/MusicDatabaseSchema.png](https://github.com/Gulshankr007/PAN-Card-Validation-in-SQLProject-/blob/da4c186e0f597462b7def70c0acb16afd48cbb77/pan%20project%20.png))
 
 # PAN Number Validation
 
