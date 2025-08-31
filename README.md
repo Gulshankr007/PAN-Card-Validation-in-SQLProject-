@@ -1,6 +1,6 @@
 # PAN-Card-Validation-in-SQLProject-
 
-![Pan Banner]([https://github.com/Gulshankr007/Zepto-SQL-data-analysis-project/blob/55efab7fad774a2640eba0726619281d4f7c981f/Zepto%20.png](https://github.com/Gulshankr007/PAN-Card-Validation-in-SQLProject-/blob/eed93f33a192da083a8cc64d371f639c34185e73/pan%20project%20.png))
+![image alt]([https://github.com/Gulshankr007/Music-Store-Analysis-Sql/blob/bf9a5f66d90ee13380513056e6c0e1410b2a8070/MusicDatabaseSchema.png](https://github.com/Gulshankr007/PAN-Card-Validation-in-SQLProject-/blob/da4c186e0f597462b7def70c0acb16afd48cbb77/pan%20project%20.png))
 
 # PAN Number Validation
 
